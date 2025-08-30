@@ -11,7 +11,7 @@ git clone https://github.com/sumandey7684/Suman-s-Works.git
 2.  **Navigate to the project directory**: Change into the project directory by running
 
 ```bash
-cd template-portfolio
+cd Suman-s-Works
 ```
 
 3. **Install dependencies**: Run the below commands to install all the project dependencies.
